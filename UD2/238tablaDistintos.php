@@ -20,7 +20,7 @@
             color: blue;
         }
         .min-row {
-            color: green;
+            color: blue;
         }
         .default {
             color: black;
